@@ -13,3 +13,6 @@ Links to other repositories and FAQ
 
 ## Route Editing
 [TSRE](https://github.com/GokuMK/TSRE5)</br>
+
+## Tools
+[TSection.dat](https://github.com/perpetualKid/tsection.dat)
